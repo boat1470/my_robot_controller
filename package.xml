@@ -10,6 +10,7 @@
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>
   <depend>turtlesim</depend>
+  <depend>RPi</depend>
   
   <!-- package used -->
   <!-- depend in command line -->
